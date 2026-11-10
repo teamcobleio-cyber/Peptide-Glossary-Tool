@@ -1,5 +1,7 @@
 # Peptide Glossary Tool
 
+> This glossary was originally listed on **[Volta Peptides](https://voltapeptides.com)**.
+
 An alphabetical glossary of 438 peptide research terms, covering the basics, preparation, pharmacology, analytical testing, regulatory language, storage and more. Every entry links to its full definition page on Volta Peptides.
 
 Browse the interactive version at **[voltapeptides.com/glossary](https://voltapeptides.com/glossary)**.
