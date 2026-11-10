@@ -1,10 +1,8 @@
 # Peptide Glossary Tool
 
-> This glossary was originally listed on **[Volta Peptides](https://voltapeptides.com)**.
+> This glossary was originally listed on **[Volta Peptides](https://voltapeptides.com)**. See the full glossary at **[voltapeptides.com/glossary](https://voltapeptides.com/glossary)**.
 
 An alphabetical glossary of 438 peptide research terms, covering the basics, preparation, pharmacology, analytical testing, regulatory language, storage and more. Every entry links to its full definition page on Volta Peptides.
-
-Browse the interactive version at **[voltapeptides.com/glossary](https://voltapeptides.com/glossary)**.
 
 **Jump to:** [0-9](#0-9) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z)
 
@@ -588,6 +586,8 @@ The INCI name for GHK-Cu, the glycyl-L-histidyl-L-lysine copper complex. The two
 
 [Read the full definition →](https://voltapeptides.com/glossary/copper-tripeptide-1)
 
+Volta Peptides product: [GHK-Cu 50mg](https://voltapeptides.com/product/ghk-cu-50mg) · [GHK-Cu 100mg](https://voltapeptides.com/product/ghk-cu-100mg)
+
 **[Cortisol](https://voltapeptides.com/glossary/cortisol)** · *Pharmacology*
 
 The adrenal glucocorticoid released under stress and on a daily rhythm. It is measured in growth hormone secretagogue studies because some compounds in that class raise it transiently while others do not, and that difference is what selectivity means here.
@@ -1116,6 +1116,8 @@ The hypothalamic hormone released in pulses that tells the pituitary to secrete 
 
 [Read the full definition →](https://voltapeptides.com/glossary/gnrh-gonadotropin-releasing-hormone)
 
+Volta Peptides product: [Gonadorelin Acetate 5mg](https://voltapeptides.com/product/gonadorelin-acetate-5mg)
+
 **[Golgi Apparatus](https://voltapeptides.com/glossary/golgi-apparatus)** · *Cell Biology*
 
 The stack of membranes that finishes proteins arriving from the ER, adding or trimming sugars and sorting them to their destinations. Many peptide hormones are cut from a larger precursor on the way through it.
@@ -1139,6 +1141,8 @@ Supply that is legal somewhere but moves outside the channel a regulated medicin
 The pituitary hormone released in pulses that influences growth, body composition and metabolism. Most of its longer-term effects are mediated indirectly, through IGF-1 produced in the liver in response to it.
 
 [Read the full definition →](https://voltapeptides.com/glossary/growth-hormone-gh)
+
+Volta Peptides product: [HGH 24iu](https://voltapeptides.com/product/hgh-24iu)
 
 **[Growth Hormone Secretagogue (GHS)](https://voltapeptides.com/glossary/growth-hormone-secretagogue-ghs)** · *Pharmacology*
 
@@ -1650,6 +1654,8 @@ The central redox cofactor in every living cell, carrying electrons through ener
 
 [Read the full definition →](https://voltapeptides.com/glossary/nad-nicotinamide-adenine-dinucleotide)
 
+Volta Peptides product: [NAD+ 1000mg](https://voltapeptides.com/product/nad-plus-1000mg)
+
 **[Native Chemical Ligation](https://voltapeptides.com/glossary/native-chemical-ligation)** · *Chemistry & Structure*
 
 Joining two unprotected peptide fragments in solution through a cysteine at the junction, forming a normal peptide bond. It is how chains too long for stepwise synthesis are assembled.
@@ -1835,6 +1841,8 @@ An additive used in place of HOBt, giving comparable suppression of racemisation
 A nine-residue hypothalamic peptide released from the posterior pituitary, involved in uterine contraction, milk ejection and a range of social behaviours studied in animal models. It is one of the few peptides with a substantial body of work in the literature using an intranasal route.
 
 [Read the full definition →](https://voltapeptides.com/glossary/oxytocin)
+
+Volta Peptides product: [Oxytocin Acetate 10mg](https://voltapeptides.com/product/oxytocin-acetate-10mg)
 
 <sub>[Back to top](#peptide-glossary-tool)</sub>
 
